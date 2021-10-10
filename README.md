@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey! 👋
+I'm Ben, i specialize in games programming and software engineering. I'm mainly a C# developer, but i also work in C++, Java, JavaScript, PHP, CSS and HTML.
 
-<!--
-**BenKeoghCGD/BenKeoghCGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects ⚡
+[The Resource Library](http://library.benkeoghcgd.co.uk) - An independent, completely free library of guides and resources relating to programming
+[StudentChef](http://studentchef.benkeoghcgd.co.uk) - An awesome mobile app with a purpose. Bringing low-cost high-quality meals to students kitchens, while teaching how to cook!
 
-Here are some ideas to get you started:
+## How to reach me 📫
+- Add me on discord: Benny K#7318
+- [Twitter](https://www.twitter.com/bencgd)
+- [Web](https://benkeoghcgd.co.uk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=BenKeoghCGD&theme=dark&show_icons=true)
